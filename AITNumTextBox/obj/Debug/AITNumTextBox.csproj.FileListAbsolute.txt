@@ -1,0 +1,5 @@
+C:\Users\donlq\Desktop\.NET CUSTOME\WinFormDll\AITNumTextBox\AITNumTextBox\bin\Debug\AITNumTextBox.dll
+C:\Users\donlq\Desktop\.NET CUSTOME\WinFormDll\AITNumTextBox\AITNumTextBox\bin\Debug\AITNumTextBox.pdb
+C:\Users\donlq\Desktop\.NET CUSTOME\WinFormDll\AITNumTextBox\AITNumTextBox\obj\Debug\AITNumTextBox.csproj.CoreCompileInputs.cache
+C:\Users\donlq\Desktop\.NET CUSTOME\WinFormDll\AITNumTextBox\AITNumTextBox\obj\Debug\AITNumTextBox.dll
+C:\Users\donlq\Desktop\.NET CUSTOME\WinFormDll\AITNumTextBox\AITNumTextBox\obj\Debug\AITNumTextBox.pdb
